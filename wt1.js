@@ -1,4 +1,4 @@
-//var util = require('util');
+"use latest";
 import util from "util";
 
 module.exports = function(ctx, cb) {
